@@ -1,0 +1,9 @@
+{
+  "firebase": "torrid-heat-8701",
+  "public": "src",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
